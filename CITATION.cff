@@ -1,0 +1,13 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Haenggi"
+  given-names: "Martin"
+  orcid: "https://orcid.org/0000-0001-8547-0607"
+- family-names: "Xinyun"
+  given-names: "Wang"
+  orcid: "https://orcid.org/0000-0001-7562-2400"
+title: "meta-distribution"
+version: 1.0.0
+date-released: 2023-01-23
+url: "https://github.com/ewa-haenggi/meta-distribution"
