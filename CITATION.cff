@@ -7,7 +7,7 @@ authors:
 - family-names: "Wang"
   given-names: "Xinyun"
   orcid: "https://orcid.org/0000-0001-7562-2400"
-title: "meta distribution"
+title: "Useful programs for recovering meta distribution"
 version: 1.0.0
 date-released: 2023-02-01
 url: "https://github.com/ewa-haenggi/meta-distribution"
