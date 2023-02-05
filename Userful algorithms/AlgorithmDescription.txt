@@ -1,0 +1,10 @@
+The algorithms and the corresponding scenarios are:
+1. FindInfandSup.m - use the CM inequalities to find infima and suprema of a moment sequence. 
+2. ProdUnifRndMomentSeq.m - produce uniformly random moment sequences.
+3. CompFLandBMviaRndMomSeq.m - compare the FL method and the BM method by a random moment sequence with specific decay rate. 
+4. RecAccCDFviaAnalyExp.m - use a moment sequence with an analytical expression to recover the cdf.
+5. NumofMomtoBoundCDF.m - find the number of moments needed such that the total distance between infima 
+                          and suprema  is less than $\epsilon = 1/100$.
+6. DiffofSupandInfatUserPenct.m - having $N$ moments available, plot the difference of the supremum 
+                          and the infimum at the 95\% point (of the ccdf) as a function of 
+                          the number of moments, from $1$ to $N$ moments. 
